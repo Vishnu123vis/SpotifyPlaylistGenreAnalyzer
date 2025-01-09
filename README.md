@@ -1,4 +1,4 @@
-# spotify-playlist-dna
+# spotify-playlist-genre-analyzer
 A React app that, using the Spotify API, obtains the genres of the tracks in any public Spotify playlist.
 <img width="447" alt="webApp-pic" src="https://user-images.githubusercontent.com/43919114/203871300-d5f8fe9c-ac8f-42de-a73c-855b94ff3e8e.PNG">
 
